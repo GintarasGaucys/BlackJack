@@ -1,2 +1,2 @@
 # BlackJack
-Text based blackjack. My first semi-big project. Split is not implemented yet.
+Text based blackjack. Split is not implemented yet.
